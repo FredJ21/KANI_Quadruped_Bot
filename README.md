@@ -1,6 +1,7 @@
 # KANI_Quadruped_Bot
 KANI - The quadruped bot
 
+![KANI](/Photos/WebFormat/Quadruped_1.jpg)
 
 KANI is a close cousin of KAME, another quadruped robot that we can discover here :  https://www.thingiverse.com/thing:1265766
  A big thank-you at bbq3D (https://www.thingiverse.com/bq3D/about) for his project and his inspiration. 
