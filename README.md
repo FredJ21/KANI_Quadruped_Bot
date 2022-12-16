@@ -27,3 +27,11 @@ in PLA,
 
 ---
 Update Sep. 2022 : BIG KANI - new version with MG996 servo
+
+---
+# On YouTube
+
+<a href="https://youtu.be/avMEU6TQdt8">
+<img src="Video/IMG_3883.png"  height="500">
+</a>
+https://youtu.be/avMEU6TQdt8
